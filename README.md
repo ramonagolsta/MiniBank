@@ -31,6 +31,11 @@ Online banking system with options to transfer money, create investment account,
 
 <img width="921" alt="Screenshot 2024-01-10 033254" src="https://github.com/ramonagolsta/MiniBank/assets/138066563/edda063c-e564-42ef-a515-aaa6fa36e269">
 
+# Video Overview
+
+
+https://github.com/ramonagolsta/MiniBank/assets/138066563/43c2f96c-10ac-46b2-9c98-71bba7a580a2
+
 
 ### Installation
 
