@@ -13,7 +13,6 @@ Online banking system with options to transfer money, create investment account,
   - Use it to transfer money from different currency accounts
 
   - To buy cryptos and follow their real-life price
-- [Contributing](#contributing)
 - [License](#license)
   - The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/license/mit/).
 # Overview
@@ -39,8 +38,14 @@ https://github.com/ramonagolsta/MiniBank/assets/138066563/43c2f96c-10ac-46b2-9c9
 
 ### Installation
 
-A step-by-step guide on how to install and set up your project.
-
+A step-by-step guide on how to install and set up the project.
+1. Clone repository with git clone...
+2. Install dependencies like this
 ```bash
-# Example installation command
 composer install
+3. Set up database with
+```bash
+php artisan migrate
+4. Run project with
+```bash
+php artisan serve
