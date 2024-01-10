@@ -39,13 +39,18 @@ https://github.com/ramonagolsta/MiniBank/assets/138066563/43c2f96c-10ac-46b2-9c9
 ### Installation
 
 A step-by-step guide on how to install and set up the project.
+```bash
 1. Clone repository with git clone...
+
 2. Install dependencies like this
-```bash
+
 composer install
+
 3. Set up database with
-```bash
+
 php artisan migrate
+
+
 4. Run project with
-```bash
+
 php artisan serve
